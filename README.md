@@ -1,2 +1,2 @@
-# jmbl
-Judicious Message Base Language
+# JMBL
+JSON + HTML + Collaboration = JBML!
